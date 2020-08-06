@@ -27,3 +27,19 @@
 
 * 0.1.0
     * CHANGE: Update docs (module code remains unchanged)
+
+ ## License
+
+Distributed under the MIT license. See ``(https://github.com/WillianSz/NLW2-Proffy/blob/master/LICENSE)`` for more information.
+
+## Contributing
+
+1. Fork it (<https://github.com/WillianSz/NLW2-Proffy/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+<br>
+
+> Made with :heart: by [Willian Silva](https://github.com/WillianSz)

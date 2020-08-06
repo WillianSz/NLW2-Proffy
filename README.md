@@ -42,4 +42,4 @@ Distributed under the MIT license. See ``(https://github.com/WillianSz/NLW2-Prof
 
 <br>
 
-> Made with :heart: by [Willian Silva](https://github.com/WillianSz)
+> Made with :heart: by [Willian Souza](https://github.com/WillianSz)

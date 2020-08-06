@@ -53,7 +53,7 @@ textarea {
     /*font-weight: 500;*/
     /*font-size: 16rem;*/
     /*font-family: Poppins;*/
-    color: var (--color-text-base);
+    color: var(--color-text-base);
 }
 
 #container {

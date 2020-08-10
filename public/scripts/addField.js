@@ -6,7 +6,7 @@
         function cloneField() {
             // Perform an action
             const newFieldContainer = document.querySelector('.schedule-item').cloneNode(true)
-                // take the fields
+                // take the fields 
             const fields = newFieldContainer.querySelectorAll('input')
                 // iterar = repiet
             fields.forEach(function(field) {

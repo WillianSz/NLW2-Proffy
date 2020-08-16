@@ -19,9 +19,17 @@
 
 ## Tecnologies
 
-- <img width="19px" src="https://i.imgur.com/MdSfZ1e.png" align="center"> HTML
-- <img width="19px" src="https://i.imgur.com/jwcy529.png" align="center"> CSS
-- <img width="19px" src="https://i.imgur.com/FZL1OnV.png" align="center"> JS
+Ferramentas utilizadas para a contrução do projeto
+
+- <img width="19px" src="https://i.imgur.com/RqX3s9n.png" align="center"> [HTML](https://www.w3schools.com/html/)
+- <img width="19px" src="https://i.imgur.com/drsEOWR.png" align="center"> [CSS](https://www.w3schools.com/css/)
+- <img width="19px" src="https://i.imgur.com/JUjMjge.png" align="center"> [JavaScript](https://www.javascript.com/)
+- <img width="19px" src="https://i.imgur.com/hKegHOy.png" align="center"> [Node.js](https://nodejs.org/en/)
+- <img width="19px" src="https://i.imgur.com/h0N8BYQ.png" align="center"> [Express](https://expressjs.com/)
+- <img width="19px" src="https://i.imgur.com/CN7fAiB.png" align="center"> [Nodemon](https://github.com/remy/nodemon)
+- <img width="19px" src="https://i.imgur.com/bKytjjR.png" align="center"> [Nunjucks](https://github.com/mozilla/nunjucks)
+- <img width="19px" src="https://i.imgur.com/EnUhB1F.png" align="center"> [SQLite](https://www.sqlite.org/index.html)
+- <img width="19px" src="https://i.imgur.com/v1j4EaQ.png" align="center"> [Sqlite-async](https://www.npmjs.com/package/sqlite-async)
 
 ## Release history
 
@@ -30,15 +38,7 @@
 
  ## License
 
-Distributed under the MIT license. See ``(https://github.com/WillianSz/NLW2-Proffy/blob/master/LICENSE)`` for more information.
-
-## Contributing
-
-1. Fork it (<https://github.com/WillianSz/NLW2-Proffy/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+Distributed under the MIT license. See [MIT](./LICENSE.md) for more information.
 
 <br>
 

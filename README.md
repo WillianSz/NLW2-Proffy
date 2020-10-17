@@ -19,7 +19,7 @@
 
 ## Tecnologies
 
-Ferramentas utilizadas para a contrução do projeto
+Tools used to build the project
 
 - <img width="19px" src="https://i.imgur.com/RqX3s9n.png" align="center"> [HTML](https://www.w3schools.com/html/)
 - <img width="19px" src="https://i.imgur.com/drsEOWR.png" align="center"> [CSS](https://www.w3schools.com/css/)
@@ -31,15 +31,10 @@ Ferramentas utilizadas para a contrução do projeto
 - <img width="19px" src="https://i.imgur.com/EnUhB1F.png" align="center"> [SQLite](https://www.sqlite.org/index.html)
 - <img width="19px" src="https://i.imgur.com/v1j4EaQ.png" align="center"> [Sqlite-async](https://www.npmjs.com/package/sqlite-async)
 
-## Release history
-
-* 0.1.0
-    * CHANGE: Update docs (module code remains unchanged)
-
  ## License
 
-Distributed under the MIT license. See [MIT](./LICENSE.md) for more information.
+Distributed under the MIT license. See [MIT](https://github.com/WillianSz/NLW2-Proffy/blob/master/LICENSE) for more information.
 
 <br>
 
-> Made with :heart: by [Willian Souza](https://github.com/WillianSz)
+> Made with :heart: by [Willian Souza](https://www.linkedin.com/in/willian-souza-386643186/)
